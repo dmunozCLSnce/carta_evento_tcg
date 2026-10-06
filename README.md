@@ -8,7 +8,6 @@ Carta de comida para celular del stand del evento TCG. Pensada para abrirse desd
 - `css/menu.css`: estilos y fuentes (Bricolage Grotesque y Archivo, incluidas en `fonts/`).
 - `js/menu.js`: flechas de la barra de categorías.
 - `img/`: fotos de los productos.
-- `carta-evento-tcg.pdf`: versión PDF de la carta, en formato de celular.
 
 ## Publicar con GitHub Pages
 
