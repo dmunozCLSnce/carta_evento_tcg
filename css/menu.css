@@ -33,6 +33,17 @@ h1,h2,h3{font-family:var(--display);margin:0;text-wrap:balance}
 @media (prefers-reduced-motion:reduce){.arrow.right .dot{animation:none}}
 .arrow[hidden]{display:none}
 .arrow:focus-visible{outline:2px solid var(--mustard);outline-offset:-2px}
+/* Vertical scroll hints: fixed mustard dots that fade out at the top/bottom of the page */
+.vscroll{position:fixed;left:50%;z-index:6;width:48px;height:48px;margin-left:-24px;border:0;padding:0;background:none;cursor:pointer;color:var(--ink);display:grid;place-items:center;opacity:0;visibility:hidden;transform:translateY(var(--off,0));transition:opacity .25s ease,visibility .25s,transform .25s ease;-webkit-tap-highlight-color:transparent}
+.vscroll.up{top:var(--vtop,64px);--off:-6px}
+.vscroll.down{bottom:calc(14px + env(safe-area-inset-bottom,0px));--off:6px}
+.vscroll.show{opacity:1;visibility:visible;--off:0px}
+.vscroll .dot{width:34px;height:34px;border-radius:50%;background:var(--mustard);display:grid;place-items:center;box-shadow:0 0 0 3px rgba(242,181,42,.28),0 4px 10px rgba(0,0,0,.35)}
+.vscroll.down.show .dot{animation:bob 1.4s ease-in-out 3}
+@keyframes bob{0%,100%{transform:translateY(0)}50%{transform:translateY(4px)}}
+.vscroll:focus-visible{outline:none}
+.vscroll:focus-visible .dot{outline:2px solid var(--ink);outline-offset:2px}
+@media (prefers-reduced-motion:reduce){.vscroll{transition:opacity .01s,visibility .01s}.vscroll.down.show .dot{animation:none}}
 .nav::-webkit-scrollbar{display:none}
 .nav a{flex:none;color:var(--paper);text-decoration:none;font-size:14px;font-weight:600;padding:7px 14px;border-radius:999px;border:1px solid #4A4944}
 .nav a:active,.nav a:focus-visible{background:var(--mustard);color:var(--ink);border-color:var(--mustard);outline:none}
@@ -76,6 +87,6 @@ footer p{margin:0}
 @media print{
   html,body{background:var(--paper)}
   .navwrap{position:static}
-  .arrow{display:none!important}
+  .arrow,.vscroll{display:none!important}
   .item,.special,.clist li{break-inside:avoid}
 }
