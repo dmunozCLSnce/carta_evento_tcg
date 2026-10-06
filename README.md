@@ -17,5 +17,5 @@ Carta de comida para celular del stand del evento TCG. Pensada para abrirse desd
 
 ## Notas
 
-- Precios con IVA incluido. Fotos referenciales.
+- Fotos referenciales.
 - Algunas fotos provienen de Wikimedia Commons (licencias CC) y otras de la web; revisar derechos antes de un uso comercial.
