@@ -1,0 +1,48 @@
+{
+  "actualizado": "2026-10-12T04:21:50.225Z",
+  "hayRemate": false,
+  "productos": {
+    "Hamburguesa Italiana": {
+      "enRemate": false,
+      "precio": 5000,
+      "precioLista": 5000,
+      "remate": null
+    },
+    "Hamburguesa con Queso": {
+      "enRemate": false,
+      "precio": 4500,
+      "precioLista": 4500,
+      "remate": null
+    },
+    "Completo Italiano": {
+      "enRemate": false,
+      "precio": 3500,
+      "precioLista": 3500,
+      "remate": null
+    },
+    "Papas Fritas": {
+      "enRemate": false,
+      "precio": 2500,
+      "precioLista": 2500,
+      "remate": null
+    },
+    "Cerveza Artesanal": {
+      "enRemate": false,
+      "precio": 3000,
+      "precioLista": 3000,
+      "remate": null
+    },
+    "Bebida Lata": {
+      "enRemate": false,
+      "precio": 1500,
+      "precioLista": 1500,
+      "remate": null
+    },
+    "Combo Hamburguesa + Papas + Bebida": {
+      "enRemate": false,
+      "precio": 8000,
+      "precioLista": 8000,
+      "remate": null
+    }
+  }
+}
