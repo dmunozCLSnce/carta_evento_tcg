@@ -93,3 +93,9 @@ footer p{margin:0}
   .arrow,.vscroll{display:none!important}
   .item,.special,.clist li{break-inside:avoid}
 }
+/* Remates: precios que publica el POS en precios.json (ver js/precios.js) */
+.remate-aviso{margin:0;padding:10px 16px;background:#FFD400;color:var(--night);font-family:var(--display);font-weight:800;font-size:15px;text-align:center;letter-spacing:.04em;text-transform:uppercase}
+.row:has(.oferta){align-items:flex-start}
+.oferta{display:inline-flex;flex-direction:column;align-items:flex-end;line-height:1.05}
+.oferta s{font-size:.62em;font-weight:600;color:#8a8a8a}
+.oferta em{margin-top:3px;padding:1px 7px;border-radius:999px;background:var(--red);color:#fff;font-style:normal;font-size:.55em;font-weight:800}
