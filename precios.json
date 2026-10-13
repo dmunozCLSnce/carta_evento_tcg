@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-13T03:55:04.112Z",
-  "hayRemate": false,
+  "actualizado": "2026-10-13T04:22:13.459Z",
+  "hayRemate": true,
   "categorias": [
     {
       "nombre": "Papas",
@@ -10,40 +10,40 @@
           "descripcion": "Porción de 300 g con salsas",
           "grupo": null,
           "nombreEnGrupo": null,
-          "enRemate": false,
-          "precio": 3990,
+          "enRemate": true,
+          "precio": 3192,
           "precioLista": 3990,
-          "remate": null
+          "remate": "-20%"
         },
         {
           "nombre": "Salchipapa",
           "descripcion": "Papas fritas con vienesas",
           "grupo": null,
           "nombreEnGrupo": null,
-          "enRemate": false,
-          "precio": 4990,
+          "enRemate": true,
+          "precio": 3992,
           "precioLista": 4990,
-          "remate": null
+          "remate": "-20%"
         },
         {
           "nombre": "Nuggets con Papas",
           "descripcion": "8 nuggets de pollo con papas fritas",
           "grupo": null,
           "nombreEnGrupo": null,
-          "enRemate": false,
-          "precio": 4990,
+          "enRemate": true,
+          "precio": 3992,
           "precioLista": 4990,
-          "remate": null
+          "remate": "-20%"
         },
         {
           "nombre": "Papas Tocino Cheddar",
           "descripcion": "Papas fritas con salsa cheddar y tocino",
           "grupo": null,
           "nombreEnGrupo": null,
-          "enRemate": false,
-          "precio": 5990,
+          "enRemate": true,
+          "precio": 4792,
           "precioLista": 5990,
-          "remate": null
+          "remate": "-20%"
         }
       ]
     },
@@ -55,50 +55,50 @@
           "descripcion": "Vienesa, tomate y mayo",
           "grupo": null,
           "nombreEnGrupo": null,
-          "enRemate": false,
-          "precio": 2990,
+          "enRemate": true,
+          "precio": 2392,
           "precioLista": 2990,
-          "remate": null
+          "remate": "-20%"
         },
         {
           "nombre": "Completo Italiano",
           "descripcion": "Vienesa, tomate, palta y mayo",
           "grupo": null,
           "nombreEnGrupo": null,
-          "enRemate": false,
-          "precio": 3290,
+          "enRemate": true,
+          "precio": 2632,
           "precioLista": 3290,
-          "remate": null
+          "remate": "-20%"
         },
         {
           "nombre": "As Tomate Mayo",
           "descripcion": "Carne de vacuno, tomate y mayo",
           "grupo": null,
           "nombreEnGrupo": null,
-          "enRemate": false,
-          "precio": 5490,
+          "enRemate": true,
+          "precio": 4392,
           "precioLista": 5490,
-          "remate": null
+          "remate": "-20%"
         },
         {
           "nombre": "As Queso",
           "descripcion": "Carne de vacuno y queso fundido",
           "grupo": null,
           "nombreEnGrupo": null,
-          "enRemate": false,
-          "precio": 5490,
+          "enRemate": true,
+          "precio": 4392,
           "precioLista": 5490,
-          "remate": null
+          "remate": "-20%"
         },
         {
           "nombre": "As Italiano",
           "descripcion": "Carne de vacuno, tomate, palta y mayo",
           "grupo": null,
           "nombreEnGrupo": null,
-          "enRemate": false,
-          "precio": 5490,
+          "enRemate": true,
+          "precio": 4392,
           "precioLista": 5490,
-          "remate": null
+          "remate": "-20%"
         }
       ]
     },
@@ -110,30 +110,30 @@
           "descripcion": "Carne de vacuno y queso fundido en pan de churrasco",
           "grupo": null,
           "nombreEnGrupo": null,
-          "enRemate": false,
-          "precio": 7490,
+          "enRemate": true,
+          "precio": 5992,
           "precioLista": 7490,
-          "remate": null
+          "remate": "-20%"
         },
         {
           "nombre": "Churrasco Lechuga Tomate",
           "descripcion": "Carne de vacuno, lechuga, tomate y mayo",
           "grupo": null,
           "nombreEnGrupo": null,
-          "enRemate": false,
-          "precio": 7490,
+          "enRemate": true,
+          "precio": 5992,
           "precioLista": 7490,
-          "remate": null
+          "remate": "-20%"
         },
         {
           "nombre": "Churrasco Italiano",
           "descripcion": "Carne de vacuno, tomate, palta y mayo",
           "grupo": null,
           "nombreEnGrupo": null,
-          "enRemate": false,
-          "precio": 7990,
+          "enRemate": true,
+          "precio": 6392,
           "precioLista": 7990,
-          "remate": null
+          "remate": "-20%"
         }
       ]
     },
@@ -145,50 +145,50 @@
           "descripcion": "Nachos con guacamole casero",
           "grupo": null,
           "nombreEnGrupo": null,
-          "enRemate": false,
-          "precio": 4990,
+          "enRemate": true,
+          "precio": 3992,
           "precioLista": 4990,
-          "remate": null
+          "remate": "-20%"
         },
         {
           "nombre": "Nachos Queso y Tocino",
           "descripcion": "Nachos con salsa cheddar y tocino",
           "grupo": null,
           "nombreEnGrupo": null,
-          "enRemate": false,
-          "precio": 4990,
+          "enRemate": true,
+          "precio": 3992,
           "precioLista": 4990,
-          "remate": null
+          "remate": "-20%"
         },
         {
           "nombre": "Burrito Italiano",
           "descripcion": "Pollo, tomate y palta en tortilla XL",
           "grupo": null,
           "nombreEnGrupo": null,
-          "enRemate": false,
-          "precio": 5990,
+          "enRemate": true,
+          "precio": 4792,
           "precioLista": 5990,
-          "remate": null
+          "remate": "-20%"
         },
         {
           "nombre": "Burrito Lechuga Tomate",
           "descripcion": "Pollo, lechuga y tomate en tortilla XL",
           "grupo": null,
           "nombreEnGrupo": null,
-          "enRemate": false,
-          "precio": 5990,
+          "enRemate": true,
+          "precio": 4792,
           "precioLista": 5990,
-          "remate": null
+          "remate": "-20%"
         },
         {
           "nombre": "Ensalada César",
           "descripcion": "Lechuga, pollo, crutones, parmesano y aderezo César",
           "grupo": null,
           "nombreEnGrupo": null,
-          "enRemate": false,
-          "precio": 5990,
+          "enRemate": true,
+          "precio": 4792,
           "precioLista": 5990,
-          "remate": null
+          "remate": "-20%"
         }
       ]
     },
@@ -200,10 +200,10 @@
           "descripcion": "Para picar",
           "grupo": null,
           "nombreEnGrupo": null,
-          "enRemate": false,
-          "precio": 3000,
+          "enRemate": true,
+          "precio": 2400,
           "precioLista": 3000,
-          "remate": null
+          "remate": "-20%"
         }
       ]
     },
@@ -215,170 +215,170 @@
           "descripcion": "+ bebida o agua",
           "grupo": "Combo Papas",
           "nombreEnGrupo": "Papas Fritas",
-          "enRemate": false,
-          "precio": 5490,
+          "enRemate": true,
+          "precio": 4392,
           "precioLista": 5490,
-          "remate": null
+          "remate": "-20%"
         },
         {
           "nombre": "Combo Salchipapa",
           "descripcion": "+ bebida o agua",
           "grupo": "Combo Papas",
           "nombreEnGrupo": "Salchipapa",
-          "enRemate": false,
-          "precio": 6490,
+          "enRemate": true,
+          "precio": 5192,
           "precioLista": 6490,
-          "remate": null
+          "remate": "-20%"
         },
         {
           "nombre": "Combo Nuggets con Papas",
           "descripcion": "+ bebida o agua",
           "grupo": "Combo Papas",
           "nombreEnGrupo": "Nuggets con Papas",
-          "enRemate": false,
-          "precio": 6490,
+          "enRemate": true,
+          "precio": 5192,
           "precioLista": 6490,
-          "remate": null
+          "remate": "-20%"
         },
         {
           "nombre": "Combo Papas Tocino Cheddar",
           "descripcion": "+ bebida o agua",
           "grupo": "Combo Papas",
           "nombreEnGrupo": "Papas Tocino Cheddar",
-          "enRemate": false,
-          "precio": 7490,
+          "enRemate": true,
+          "precio": 5992,
           "precioLista": 7490,
-          "remate": null
+          "remate": "-20%"
         },
         {
           "nombre": "Combo Completo Tomate Mayo",
           "descripcion": "+ papas + bebida o agua",
           "grupo": "Combo Completo",
           "nombreEnGrupo": "Tomate Mayo",
-          "enRemate": false,
-          "precio": 6890,
+          "enRemate": true,
+          "precio": 5512,
           "precioLista": 6890,
-          "remate": null
+          "remate": "-20%"
         },
         {
           "nombre": "Combo Completo Italiano",
           "descripcion": "+ papas + bebida o agua",
           "grupo": "Combo Completo",
           "nombreEnGrupo": "Italiano",
-          "enRemate": false,
-          "precio": 7190,
+          "enRemate": true,
+          "precio": 5752,
           "precioLista": 7190,
-          "remate": null
+          "remate": "-20%"
         },
         {
           "nombre": "Combo As Tomate Mayo",
           "descripcion": "+ papas + bebida o agua",
           "grupo": "Combo As",
           "nombreEnGrupo": "Tomate Mayo",
-          "enRemate": false,
-          "precio": 9390,
+          "enRemate": true,
+          "precio": 7512,
           "precioLista": 9390,
-          "remate": null
+          "remate": "-20%"
         },
         {
           "nombre": "Combo As Queso",
           "descripcion": "+ papas + bebida o agua",
           "grupo": "Combo As",
           "nombreEnGrupo": "Queso",
-          "enRemate": false,
-          "precio": 9390,
+          "enRemate": true,
+          "precio": 7512,
           "precioLista": 9390,
-          "remate": null
+          "remate": "-20%"
         },
         {
           "nombre": "Combo As Italiano",
           "descripcion": "+ papas + bebida o agua",
           "grupo": "Combo As",
           "nombreEnGrupo": "Italiano",
-          "enRemate": false,
-          "precio": 9390,
+          "enRemate": true,
+          "precio": 7512,
           "precioLista": 9390,
-          "remate": null
+          "remate": "-20%"
         },
         {
           "nombre": "Combo Churrasco Queso",
           "descripcion": "+ papas + bebida o agua",
           "grupo": "Combo Churrasco",
           "nombreEnGrupo": "Queso",
-          "enRemate": false,
-          "precio": 11390,
+          "enRemate": true,
+          "precio": 9112,
           "precioLista": 11390,
-          "remate": null
+          "remate": "-20%"
         },
         {
           "nombre": "Combo Churrasco Lechuga Tomate",
           "descripcion": "+ papas + bebida o agua",
           "grupo": "Combo Churrasco",
           "nombreEnGrupo": "Lechuga Tomate",
-          "enRemate": false,
-          "precio": 11390,
+          "enRemate": true,
+          "precio": 9112,
           "precioLista": 11390,
-          "remate": null
+          "remate": "-20%"
         },
         {
           "nombre": "Combo Churrasco Italiano",
           "descripcion": "+ papas + bebida o agua",
           "grupo": "Combo Churrasco",
           "nombreEnGrupo": "Italiano",
-          "enRemate": false,
-          "precio": 11890,
+          "enRemate": true,
+          "precio": 9512,
           "precioLista": 11890,
-          "remate": null
+          "remate": "-20%"
         },
         {
           "nombre": "Combo Nachos Guacamole",
           "descripcion": "+ bebida o agua",
           "grupo": "Combo Nachos",
           "nombreEnGrupo": "Guacamole",
-          "enRemate": false,
-          "precio": 6490,
+          "enRemate": true,
+          "precio": 5192,
           "precioLista": 6490,
-          "remate": null
+          "remate": "-20%"
         },
         {
           "nombre": "Combo Nachos Queso y Tocino",
           "descripcion": "+ bebida o agua",
           "grupo": "Combo Nachos",
           "nombreEnGrupo": "Queso y Tocino",
-          "enRemate": false,
-          "precio": 6490,
+          "enRemate": true,
+          "precio": 5192,
           "precioLista": 6490,
-          "remate": null
+          "remate": "-20%"
         },
         {
           "nombre": "Combo Burrito Italiano",
           "descripcion": "+ papas + bebida o agua",
           "grupo": "Combo Burrito",
           "nombreEnGrupo": "Italiano",
-          "enRemate": false,
-          "precio": 9890,
+          "enRemate": true,
+          "precio": 7912,
           "precioLista": 9890,
-          "remate": null
+          "remate": "-20%"
         },
         {
           "nombre": "Combo Burrito Lechuga Tomate",
           "descripcion": "+ papas + bebida o agua",
           "grupo": "Combo Burrito",
           "nombreEnGrupo": "Lechuga Tomate",
-          "enRemate": false,
-          "precio": 9890,
+          "enRemate": true,
+          "precio": 7912,
           "precioLista": 9890,
-          "remate": null
+          "remate": "-20%"
         },
         {
           "nombre": "Combo Ensalada César",
           "descripcion": "+ bebida o agua",
           "grupo": "Combo Ensalada",
           "nombreEnGrupo": "César",
-          "enRemate": false,
-          "precio": 7490,
+          "enRemate": true,
+          "precio": 5992,
           "precioLista": 7490,
-          "remate": null
+          "remate": "-20%"
         }
       ]
     },
@@ -390,294 +390,294 @@
           "descripcion": "Fría",
           "grupo": null,
           "nombreEnGrupo": null,
-          "enRemate": false,
-          "precio": 2000,
+          "enRemate": true,
+          "precio": 1600,
           "precioLista": 2000,
-          "remate": null
+          "remate": "-20%"
         },
         {
           "nombre": "Agua",
           "descripcion": "Con o sin gas",
           "grupo": null,
           "nombreEnGrupo": null,
-          "enRemate": false,
-          "precio": 2000,
+          "enRemate": true,
+          "precio": 1600,
           "precioLista": 2000,
-          "remate": null
+          "remate": "-20%"
         },
         {
           "nombre": "Jugo natural",
           "descripcion": "Vaso de 500 cc",
           "grupo": null,
           "nombreEnGrupo": null,
-          "enRemate": false,
-          "precio": 2990,
+          "enRemate": true,
+          "precio": 2392,
           "precioLista": 2990,
-          "remate": null
+          "remate": "-20%"
         },
         {
           "nombre": "Café",
           "descripcion": "Con leche entera o sin lactosa",
           "grupo": null,
           "nombreEnGrupo": null,
-          "enRemate": false,
-          "precio": 3000,
+          "enRemate": true,
+          "precio": 2400,
           "precioLista": 3000,
-          "remate": null
+          "remate": "-20%"
         },
         {
           "nombre": "Té",
           "descripcion": "Con azúcar o endulzante",
           "grupo": null,
           "nombreEnGrupo": null,
-          "enRemate": false,
-          "precio": 2000,
+          "enRemate": true,
+          "precio": 1600,
           "precioLista": 2000,
-          "remate": null
+          "remate": "-20%"
         }
       ]
     }
   ],
   "productos": {
     "Papas Fritas": {
-      "enRemate": false,
-      "precio": 3990,
+      "enRemate": true,
+      "precio": 3192,
       "precioLista": 3990,
-      "remate": null
+      "remate": "-20%"
     },
     "Salchipapa": {
-      "enRemate": false,
-      "precio": 4990,
+      "enRemate": true,
+      "precio": 3992,
       "precioLista": 4990,
-      "remate": null
+      "remate": "-20%"
     },
     "Nuggets con Papas": {
-      "enRemate": false,
-      "precio": 4990,
+      "enRemate": true,
+      "precio": 3992,
       "precioLista": 4990,
-      "remate": null
+      "remate": "-20%"
     },
     "Papas Tocino Cheddar": {
-      "enRemate": false,
-      "precio": 5990,
+      "enRemate": true,
+      "precio": 4792,
       "precioLista": 5990,
-      "remate": null
+      "remate": "-20%"
     },
     "Completo Tomate Mayo": {
-      "enRemate": false,
-      "precio": 2990,
+      "enRemate": true,
+      "precio": 2392,
       "precioLista": 2990,
-      "remate": null
+      "remate": "-20%"
     },
     "Completo Italiano": {
-      "enRemate": false,
-      "precio": 3290,
+      "enRemate": true,
+      "precio": 2632,
       "precioLista": 3290,
-      "remate": null
+      "remate": "-20%"
     },
     "As Tomate Mayo": {
-      "enRemate": false,
-      "precio": 5490,
+      "enRemate": true,
+      "precio": 4392,
       "precioLista": 5490,
-      "remate": null
+      "remate": "-20%"
     },
     "As Queso": {
-      "enRemate": false,
-      "precio": 5490,
+      "enRemate": true,
+      "precio": 4392,
       "precioLista": 5490,
-      "remate": null
+      "remate": "-20%"
     },
     "As Italiano": {
-      "enRemate": false,
-      "precio": 5490,
+      "enRemate": true,
+      "precio": 4392,
       "precioLista": 5490,
-      "remate": null
+      "remate": "-20%"
     },
     "Churrasco Queso": {
-      "enRemate": false,
-      "precio": 7490,
+      "enRemate": true,
+      "precio": 5992,
       "precioLista": 7490,
-      "remate": null
+      "remate": "-20%"
     },
     "Churrasco Lechuga Tomate": {
-      "enRemate": false,
-      "precio": 7490,
+      "enRemate": true,
+      "precio": 5992,
       "precioLista": 7490,
-      "remate": null
+      "remate": "-20%"
     },
     "Churrasco Italiano": {
-      "enRemate": false,
-      "precio": 7990,
+      "enRemate": true,
+      "precio": 6392,
       "precioLista": 7990,
-      "remate": null
+      "remate": "-20%"
     },
     "Nachos con Guacamole": {
-      "enRemate": false,
-      "precio": 4990,
+      "enRemate": true,
+      "precio": 3992,
       "precioLista": 4990,
-      "remate": null
+      "remate": "-20%"
     },
     "Nachos Queso y Tocino": {
-      "enRemate": false,
-      "precio": 4990,
+      "enRemate": true,
+      "precio": 3992,
       "precioLista": 4990,
-      "remate": null
+      "remate": "-20%"
     },
     "Burrito Italiano": {
-      "enRemate": false,
-      "precio": 5990,
+      "enRemate": true,
+      "precio": 4792,
       "precioLista": 5990,
-      "remate": null
+      "remate": "-20%"
     },
     "Burrito Lechuga Tomate": {
-      "enRemate": false,
-      "precio": 5990,
+      "enRemate": true,
+      "precio": 4792,
       "precioLista": 5990,
-      "remate": null
+      "remate": "-20%"
     },
     "Ensalada César": {
-      "enRemate": false,
-      "precio": 5990,
+      "enRemate": true,
+      "precio": 4792,
       "precioLista": 5990,
-      "remate": null
+      "remate": "-20%"
     },
     "Cabritas": {
-      "enRemate": false,
-      "precio": 3000,
+      "enRemate": true,
+      "precio": 2400,
       "precioLista": 3000,
-      "remate": null
+      "remate": "-20%"
     },
     "Combo Papas Fritas": {
-      "enRemate": false,
-      "precio": 5490,
+      "enRemate": true,
+      "precio": 4392,
       "precioLista": 5490,
-      "remate": null
+      "remate": "-20%"
     },
     "Combo Salchipapa": {
-      "enRemate": false,
-      "precio": 6490,
+      "enRemate": true,
+      "precio": 5192,
       "precioLista": 6490,
-      "remate": null
+      "remate": "-20%"
     },
     "Combo Nuggets con Papas": {
-      "enRemate": false,
-      "precio": 6490,
+      "enRemate": true,
+      "precio": 5192,
       "precioLista": 6490,
-      "remate": null
+      "remate": "-20%"
     },
     "Combo Papas Tocino Cheddar": {
-      "enRemate": false,
-      "precio": 7490,
+      "enRemate": true,
+      "precio": 5992,
       "precioLista": 7490,
-      "remate": null
+      "remate": "-20%"
     },
     "Combo Completo Tomate Mayo": {
-      "enRemate": false,
-      "precio": 6890,
+      "enRemate": true,
+      "precio": 5512,
       "precioLista": 6890,
-      "remate": null
+      "remate": "-20%"
     },
     "Combo Completo Italiano": {
-      "enRemate": false,
-      "precio": 7190,
+      "enRemate": true,
+      "precio": 5752,
       "precioLista": 7190,
-      "remate": null
+      "remate": "-20%"
     },
     "Combo As Tomate Mayo": {
-      "enRemate": false,
-      "precio": 9390,
+      "enRemate": true,
+      "precio": 7512,
       "precioLista": 9390,
-      "remate": null
+      "remate": "-20%"
     },
     "Combo As Queso": {
-      "enRemate": false,
-      "precio": 9390,
+      "enRemate": true,
+      "precio": 7512,
       "precioLista": 9390,
-      "remate": null
+      "remate": "-20%"
     },
     "Combo As Italiano": {
-      "enRemate": false,
-      "precio": 9390,
+      "enRemate": true,
+      "precio": 7512,
       "precioLista": 9390,
-      "remate": null
+      "remate": "-20%"
     },
     "Combo Churrasco Queso": {
-      "enRemate": false,
-      "precio": 11390,
+      "enRemate": true,
+      "precio": 9112,
       "precioLista": 11390,
-      "remate": null
+      "remate": "-20%"
     },
     "Combo Churrasco Lechuga Tomate": {
-      "enRemate": false,
-      "precio": 11390,
+      "enRemate": true,
+      "precio": 9112,
       "precioLista": 11390,
-      "remate": null
+      "remate": "-20%"
     },
     "Combo Churrasco Italiano": {
-      "enRemate": false,
-      "precio": 11890,
+      "enRemate": true,
+      "precio": 9512,
       "precioLista": 11890,
-      "remate": null
+      "remate": "-20%"
     },
     "Combo Nachos Guacamole": {
-      "enRemate": false,
-      "precio": 6490,
+      "enRemate": true,
+      "precio": 5192,
       "precioLista": 6490,
-      "remate": null
+      "remate": "-20%"
     },
     "Combo Nachos Queso y Tocino": {
-      "enRemate": false,
-      "precio": 6490,
+      "enRemate": true,
+      "precio": 5192,
       "precioLista": 6490,
-      "remate": null
+      "remate": "-20%"
     },
     "Combo Burrito Italiano": {
-      "enRemate": false,
-      "precio": 9890,
+      "enRemate": true,
+      "precio": 7912,
       "precioLista": 9890,
-      "remate": null
+      "remate": "-20%"
     },
     "Combo Burrito Lechuga Tomate": {
-      "enRemate": false,
-      "precio": 9890,
+      "enRemate": true,
+      "precio": 7912,
       "precioLista": 9890,
-      "remate": null
+      "remate": "-20%"
     },
     "Combo Ensalada César": {
-      "enRemate": false,
-      "precio": 7490,
+      "enRemate": true,
+      "precio": 5992,
       "precioLista": 7490,
-      "remate": null
+      "remate": "-20%"
     },
     "Bebida en lata": {
-      "enRemate": false,
-      "precio": 2000,
+      "enRemate": true,
+      "precio": 1600,
       "precioLista": 2000,
-      "remate": null
+      "remate": "-20%"
     },
     "Agua": {
-      "enRemate": false,
-      "precio": 2000,
+      "enRemate": true,
+      "precio": 1600,
       "precioLista": 2000,
-      "remate": null
+      "remate": "-20%"
     },
     "Jugo natural": {
-      "enRemate": false,
-      "precio": 2990,
+      "enRemate": true,
+      "precio": 2392,
       "precioLista": 2990,
-      "remate": null
+      "remate": "-20%"
     },
     "Café": {
-      "enRemate": false,
-      "precio": 3000,
+      "enRemate": true,
+      "precio": 2400,
       "precioLista": 3000,
-      "remate": null
+      "remate": "-20%"
     },
     "Té": {
-      "enRemate": false,
-      "precio": 2000,
+      "enRemate": true,
+      "precio": 1600,
       "precioLista": 2000,
-      "remate": null
+      "remate": "-20%"
     }
   }
 }
