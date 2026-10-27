@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-27T16:24:51.675Z",
+  "actualizado": "2026-10-27T16:30:08.643Z",
   "hayRemate": false,
   "categorias": [
     {
@@ -451,8 +451,8 @@
           "grupo": null,
           "nombreEnGrupo": null,
           "enRemate": false,
-          "precio": 2000,
-          "precioLista": 2000,
+          "precio": 2500,
+          "precioLista": 2500,
           "remate": null
         }
       ]
@@ -707,8 +707,8 @@
     },
     "Té": {
       "enRemate": false,
-      "precio": 2000,
-      "precioLista": 2000,
+      "precio": 2500,
+      "precioLista": 2500,
       "remate": null
     }
   }
