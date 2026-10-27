@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-13T04:23:11.709Z",
+  "actualizado": "2026-10-27T16:24:51.675Z",
   "hayRemate": false,
   "categorias": [
     {
@@ -416,13 +416,33 @@
           "remate": null
         },
         {
-          "nombre": "Café",
-          "descripcion": "Con leche entera o sin lactosa",
+          "nombre": "Americano",
+          "descripcion": "Café negro",
           "grupo": null,
           "nombreEnGrupo": null,
           "enRemate": false,
-          "precio": 3000,
-          "precioLista": 3000,
+          "precio": 3500,
+          "precioLista": 3500,
+          "remate": null
+        },
+        {
+          "nombre": "Cappuccino",
+          "descripcion": "Con leche espumada, entera o sin lactosa",
+          "grupo": null,
+          "nombreEnGrupo": null,
+          "enRemate": false,
+          "precio": 4500,
+          "precioLista": 4500,
+          "remate": null
+        },
+        {
+          "nombre": "Latte",
+          "descripcion": "Con más leche, entera o sin lactosa",
+          "grupo": null,
+          "nombreEnGrupo": null,
+          "enRemate": false,
+          "precio": 4500,
+          "precioLista": 4500,
           "remate": null
         },
         {
@@ -667,10 +687,22 @@
       "precioLista": 2990,
       "remate": null
     },
-    "Café": {
+    "Americano": {
       "enRemate": false,
-      "precio": 3000,
-      "precioLista": 3000,
+      "precio": 3500,
+      "precioLista": 3500,
+      "remate": null
+    },
+    "Cappuccino": {
+      "enRemate": false,
+      "precio": 4500,
+      "precioLista": 4500,
+      "remate": null
+    },
+    "Latte": {
+      "enRemate": false,
+      "precio": 4500,
+      "precioLista": 4500,
       "remate": null
     },
     "Té": {
