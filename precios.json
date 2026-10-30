@@ -7,7 +7,7 @@
       "productos": [
         {
           "nombre": "Papas Fritas",
-          "descripcion": "Porción de 300 g con salsas",
+          "descripcion": "Doraditas y crujientes, una porción generosa para compartir (o no). Con salsas a elección.",
           "grupo": null,
           "nombreEnGrupo": null,
           "enRemate": false,
@@ -17,7 +17,7 @@
         },
         {
           "nombre": "Salchipapa",
-          "descripcion": "Papas fritas con vienesas",
+          "descripcion": "El clásico que nunca falla: papas fritas con 2 vienesas.",
           "grupo": null,
           "nombreEnGrupo": null,
           "enRemate": false,
@@ -27,7 +27,7 @@
         },
         {
           "nombre": "Nuggets con Papas",
-          "descripcion": "8 nuggets de pollo con papas fritas",
+          "descripcion": "8 nuggets de pollo dorados y crujientes, con papas fritas.",
           "grupo": null,
           "nombreEnGrupo": null,
           "enRemate": false,
@@ -37,7 +37,7 @@
         },
         {
           "nombre": "Papas Tocino Cheddar",
-          "descripcion": "Papas fritas con salsa cheddar y tocino",
+          "descripcion": "Papas fritas bañadas en salsa cheddar y coronadas con tocino crujiente.",
           "grupo": null,
           "nombreEnGrupo": null,
           "enRemate": false,
@@ -52,7 +52,7 @@
       "productos": [
         {
           "nombre": "Completo Tomate Mayo",
-          "descripcion": "Vienesa, tomate y mayo",
+          "descripcion": "Vienesa en pan de completo con tomate fresco y nuestra mayo casera.",
           "grupo": null,
           "nombreEnGrupo": null,
           "enRemate": false,
@@ -62,7 +62,7 @@
         },
         {
           "nombre": "Completo Italiano",
-          "descripcion": "Vienesa, tomate, palta y mayo",
+          "descripcion": "El italiano de siempre: vienesa, tomate, palta y nuestra mayo casera.",
           "grupo": null,
           "nombreEnGrupo": null,
           "enRemate": false,
@@ -72,7 +72,7 @@
         },
         {
           "nombre": "As Tomate Mayo",
-          "descripcion": "Carne de vacuno, tomate y mayo",
+          "descripcion": "Churrasco de vacuno en pan de completo, con tomate fresco y mayo casera.",
           "grupo": null,
           "nombreEnGrupo": null,
           "enRemate": false,
@@ -82,7 +82,7 @@
         },
         {
           "nombre": "As Queso",
-          "descripcion": "Carne de vacuno y queso fundido",
+          "descripcion": "Churrasco de vacuno con queso mantecoso derretido, en pan de completo.",
           "grupo": null,
           "nombreEnGrupo": null,
           "enRemate": false,
@@ -92,7 +92,7 @@
         },
         {
           "nombre": "As Italiano",
-          "descripcion": "Carne de vacuno, tomate, palta y mayo",
+          "descripcion": "Churrasco de vacuno con tomate, palta y mayo casera, en pan de completo.",
           "grupo": null,
           "nombreEnGrupo": null,
           "enRemate": false,
@@ -107,7 +107,7 @@
       "productos": [
         {
           "nombre": "Churrasco Queso",
-          "descripcion": "Carne de vacuno y queso fundido en pan de churrasco",
+          "descripcion": "Churrasco de vacuno con doble queso mantecoso derretido, en pan de churrasco.",
           "grupo": null,
           "nombreEnGrupo": null,
           "enRemate": false,
@@ -117,7 +117,7 @@
         },
         {
           "nombre": "Churrasco Lechuga Tomate",
-          "descripcion": "Carne de vacuno, lechuga, tomate y mayo",
+          "descripcion": "Churrasco de vacuno con lechuga, tomate fresco y mayo casera, en pan de churrasco.",
           "grupo": null,
           "nombreEnGrupo": null,
           "enRemate": false,
@@ -127,7 +127,7 @@
         },
         {
           "nombre": "Churrasco Italiano",
-          "descripcion": "Carne de vacuno, tomate, palta y mayo",
+          "descripcion": "El más contundente: churrasco de vacuno con palta, tomate y mayo casera, en pan de churrasco.",
           "grupo": null,
           "nombreEnGrupo": null,
           "enRemate": false,
@@ -142,7 +142,7 @@
       "productos": [
         {
           "nombre": "Nachos con Guacamole",
-          "descripcion": "Nachos con guacamole casero",
+          "descripcion": "Nachos crujientes con guacamole casero de palta, tomate y cebolla.",
           "grupo": null,
           "nombreEnGrupo": null,
           "enRemate": false,
@@ -152,7 +152,7 @@
         },
         {
           "nombre": "Nachos Queso y Tocino",
-          "descripcion": "Nachos con salsa cheddar y tocino",
+          "descripcion": "Nachos con salsa cheddar calentita y tocino crujiente.",
           "grupo": null,
           "nombreEnGrupo": null,
           "enRemate": false,
@@ -162,7 +162,7 @@
         },
         {
           "nombre": "Burrito Italiano",
-          "descripcion": "Pollo, tomate y palta en tortilla XL",
+          "descripcion": "Tortilla XL bien rellena con pollo, palta y tomate.",
           "grupo": null,
           "nombreEnGrupo": null,
           "enRemate": false,
@@ -172,7 +172,7 @@
         },
         {
           "nombre": "Burrito Lechuga Tomate",
-          "descripcion": "Pollo, lechuga y tomate en tortilla XL",
+          "descripcion": "Tortilla XL bien rellena con pollo, lechuga y tomate.",
           "grupo": null,
           "nombreEnGrupo": null,
           "enRemate": false,
@@ -182,7 +182,7 @@
         },
         {
           "nombre": "Ensalada César",
-          "descripcion": "Lechuga, pollo, crutones, parmesano y aderezo César",
+          "descripcion": "La opción liviana: lechuga fresca, pollo, crutones y parmesano, con aderezo César aparte.",
           "grupo": null,
           "nombreEnGrupo": null,
           "enRemate": false,
@@ -197,12 +197,32 @@
       "productos": [
         {
           "nombre": "Cabritas",
-          "descripcion": "Para picar",
+          "descripcion": "Vaso grande de cabritas dulces, recién hechas en el puesto. Ideales para mirar las partidas.",
           "grupo": null,
           "nombreEnGrupo": null,
           "enRemate": false,
           "precio": 3000,
           "precioLista": 3000,
+          "remate": null
+        },
+        {
+          "nombre": "Galletón chips de chocolate",
+          "descripcion": "Galletón estilo Subway: de vainilla con chips de chocolate, dorado por fuera y suave por dentro.",
+          "grupo": null,
+          "nombreEnGrupo": null,
+          "enRemate": false,
+          "precio": 1500,
+          "precioLista": 1500,
+          "remate": null
+        },
+        {
+          "nombre": "Promo 3 galletones",
+          "descripcion": "3 galletones estilo Subway de vainilla con chips de chocolate. Para compartir con tu equipo.",
+          "grupo": null,
+          "nombreEnGrupo": null,
+          "enRemate": false,
+          "precio": 4000,
+          "precioLista": 4000,
           "remate": null
         }
       ]
@@ -387,7 +407,7 @@
       "productos": [
         {
           "nombre": "Bebida en lata",
-          "descripcion": "Fría",
+          "descripcion": "Bien helada, para recargar energía entre rondas.",
           "grupo": null,
           "nombreEnGrupo": null,
           "enRemate": false,
@@ -397,7 +417,7 @@
         },
         {
           "nombre": "Agua",
-          "descripcion": "Con o sin gas",
+          "descripcion": "Con o sin gas, bien fría.",
           "grupo": null,
           "nombreEnGrupo": null,
           "enRemate": false,
@@ -407,7 +427,7 @@
         },
         {
           "nombre": "Jugo natural",
-          "descripcion": "Vaso de 500 cc",
+          "descripcion": "Jugo de pulpa de piña o frutilla, bien helado y en vaso grande.",
           "grupo": null,
           "nombreEnGrupo": null,
           "enRemate": false,
@@ -417,37 +437,37 @@
         },
         {
           "nombre": "Americano",
-          "descripcion": "Café negro",
+          "descripcion": "Café de grano preparado al momento, negro e intenso.",
           "grupo": null,
           "nombreEnGrupo": null,
           "enRemate": false,
-          "precio": 3500,
-          "precioLista": 3500,
+          "precio": 3100,
+          "precioLista": 3100,
           "remate": null
         },
         {
           "nombre": "Cappuccino",
-          "descripcion": "Con leche espumada, entera o sin lactosa",
+          "descripcion": "Café de grano con leche espumada, entera o sin lactosa.",
           "grupo": null,
           "nombreEnGrupo": null,
           "enRemate": false,
-          "precio": 4500,
-          "precioLista": 4500,
+          "precio": 4100,
+          "precioLista": 4100,
           "remate": null
         },
         {
           "nombre": "Latte",
-          "descripcion": "Con más leche, entera o sin lactosa",
+          "descripcion": "Café de grano con harta leche cremosa, entera o sin lactosa.",
           "grupo": null,
           "nombreEnGrupo": null,
           "enRemate": false,
-          "precio": 4500,
-          "precioLista": 4500,
+          "precio": 4100,
+          "precioLista": 4100,
           "remate": null
         },
         {
           "nombre": "Té",
-          "descripcion": "Con azúcar o endulzante",
+          "descripcion": "Té caliente, con azúcar o endulzante a gusto.",
           "grupo": null,
           "nombreEnGrupo": null,
           "enRemate": false,
