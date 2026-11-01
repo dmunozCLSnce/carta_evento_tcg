@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-01T19:00:40.273Z",
+  "actualizado": "2026-11-01T21:20:59.966Z",
   "hayRemate": true,
   "categorias": [
     {
@@ -10,10 +10,10 @@
           "descripcion": "Doraditas y crujientes, una porción generosa para compartir (o no). Con salsas a elección.",
           "grupo": null,
           "nombreEnGrupo": null,
-          "enRemate": false,
-          "precio": 3990,
+          "enRemate": true,
+          "precio": 3000,
           "precioLista": 3990,
-          "remate": null
+          "remate": "-$990"
         },
         {
           "nombre": "Salchipapa",
@@ -480,10 +480,10 @@
   ],
   "productos": {
     "Papas Fritas": {
-      "enRemate": false,
-      "precio": 3990,
+      "enRemate": true,
+      "precio": 3000,
       "precioLista": 3990,
-      "remate": null
+      "remate": "-$990"
     },
     "Salchipapa": {
       "enRemate": false,
