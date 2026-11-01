@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-27T16:30:08.643Z",
-  "hayRemate": false,
+  "actualizado": "2026-11-01T18:49:08.128Z",
+  "hayRemate": true,
   "categorias": [
     {
       "nombre": "Papas",
@@ -210,10 +210,10 @@
           "descripcion": "Galletón de vainilla con chips de chocolate, dorado por fuera y suave por dentro.",
           "grupo": null,
           "nombreEnGrupo": null,
-          "enRemate": false,
-          "precio": 1500,
+          "enRemate": true,
+          "precio": 500,
           "precioLista": 1500,
-          "remate": null
+          "remate": "-$1.000"
         },
         {
           "nombre": "Promo 3 galletones",
@@ -587,6 +587,18 @@
       "precioLista": 3000,
       "remate": null
     },
+    "Galletón chips de chocolate": {
+      "enRemate": true,
+      "precio": 500,
+      "precioLista": 1500,
+      "remate": "-$1.000"
+    },
+    "Promo 3 galletones": {
+      "enRemate": false,
+      "precio": 4000,
+      "precioLista": 4000,
+      "remate": null
+    },
     "Combo Papas Fritas": {
       "enRemate": false,
       "precio": 5490,
@@ -709,20 +721,20 @@
     },
     "Americano": {
       "enRemate": false,
-      "precio": 3500,
-      "precioLista": 3500,
+      "precio": 3100,
+      "precioLista": 3100,
       "remate": null
     },
     "Cappuccino": {
       "enRemate": false,
-      "precio": 4500,
-      "precioLista": 4500,
+      "precio": 4100,
+      "precioLista": 4100,
       "remate": null
     },
     "Latte": {
       "enRemate": false,
-      "precio": 4500,
-      "precioLista": 4500,
+      "precio": 4100,
+      "precioLista": 4100,
       "remate": null
     },
     "Té": {
