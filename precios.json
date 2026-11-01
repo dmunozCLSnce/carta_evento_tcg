@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-11-01T18:49:20.890Z",
-  "hayRemate": true,
+  "actualizado": "2026-11-01T18:55:27.956Z",
+  "hayRemate": false,
   "categorias": [
     {
       "nombre": "Papas",
@@ -210,20 +210,20 @@
           "descripcion": "Galletón de vainilla con chips de chocolate, dorado por fuera y suave por dentro.",
           "grupo": null,
           "nombreEnGrupo": null,
-          "enRemate": true,
-          "precio": 500,
+          "enRemate": false,
+          "precio": 1500,
           "precioLista": 1500,
-          "remate": "-$1.000"
+          "remate": null
         },
         {
           "nombre": "Promo 3 galletones",
           "descripcion": "3 galletones de vainilla con chips de chocolate. Para compartir con tu equipo.",
           "grupo": null,
           "nombreEnGrupo": null,
-          "enRemate": true,
-          "precio": 1000,
+          "enRemate": false,
+          "precio": 4000,
           "precioLista": 4000,
-          "remate": "-$3.000"
+          "remate": null
         }
       ]
     },
@@ -588,16 +588,16 @@
       "remate": null
     },
     "Galletón chips de chocolate": {
-      "enRemate": true,
-      "precio": 500,
+      "enRemate": false,
+      "precio": 1500,
       "precioLista": 1500,
-      "remate": "-$1.000"
+      "remate": null
     },
     "Promo 3 galletones": {
-      "enRemate": true,
-      "precio": 1000,
+      "enRemate": false,
+      "precio": 4000,
       "precioLista": 4000,
-      "remate": "-$3.000"
+      "remate": null
     },
     "Combo Papas Fritas": {
       "enRemate": false,
