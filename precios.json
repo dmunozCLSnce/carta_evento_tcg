@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-01T21:21:25.015Z",
+  "actualizado": "2026-11-01T21:22:02.147Z",
   "hayRemate": true,
   "categorias": [
     {
@@ -65,10 +65,10 @@
           "descripcion": "El italiano de siempre: vienesa, tomate, palta y nuestra mayo casera.",
           "grupo": null,
           "nombreEnGrupo": null,
-          "enRemate": false,
-          "precio": 3290,
+          "enRemate": true,
+          "precio": 2990,
           "precioLista": 3290,
-          "remate": null
+          "remate": "-$300"
         },
         {
           "nombre": "As Tomate Mayo",
@@ -510,10 +510,10 @@
       "remate": null
     },
     "Completo Italiano": {
-      "enRemate": false,
-      "precio": 3290,
+      "enRemate": true,
+      "precio": 2990,
       "precioLista": 3290,
-      "remate": null
+      "remate": "-$300"
     },
     "As Tomate Mayo": {
       "enRemate": false,
