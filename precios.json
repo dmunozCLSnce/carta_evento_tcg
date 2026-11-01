@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-11-01T18:55:27.956Z",
-  "hayRemate": false,
+  "actualizado": "2026-11-01T19:00:23.559Z",
+  "hayRemate": true,
   "categorias": [
     {
       "nombre": "Papas",
@@ -210,10 +210,10 @@
           "descripcion": "Galletón de vainilla con chips de chocolate, dorado por fuera y suave por dentro.",
           "grupo": null,
           "nombreEnGrupo": null,
-          "enRemate": false,
-          "precio": 1500,
+          "enRemate": true,
+          "precio": 1000,
           "precioLista": 1500,
-          "remate": null
+          "remate": "-$500"
         },
         {
           "nombre": "Promo 3 galletones",
@@ -588,10 +588,10 @@
       "remate": null
     },
     "Galletón chips de chocolate": {
-      "enRemate": false,
-      "precio": 1500,
+      "enRemate": true,
+      "precio": 1000,
       "precioLista": 1500,
-      "remate": null
+      "remate": "-$500"
     },
     "Promo 3 galletones": {
       "enRemate": false,
