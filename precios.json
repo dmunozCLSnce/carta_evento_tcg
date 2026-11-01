@@ -1,7 +1,317 @@
 {
-  "actualizado": "2026-11-01T21:22:35.247Z",
+  "actualizado": "2026-11-01T21:31:54.244Z",
   "hayRemate": true,
   "categorias": [
+    {
+      "nombre": "Promos",
+      "productos": [
+        {
+          "nombre": "Promo 2 Completos Tomate Mayo",
+          "descripcion": null,
+          "grupo": "2 Completos",
+          "nombreEnGrupo": "Tomate Mayo",
+          "enRemate": false,
+          "precio": 5000,
+          "precioLista": 5000,
+          "remate": null
+        },
+        {
+          "nombre": "Promo 2 Completos Tomate Mayo + Italiano",
+          "descripcion": null,
+          "grupo": "2 Completos",
+          "nombreEnGrupo": "Tomate Mayo + Italiano",
+          "enRemate": false,
+          "precio": 5000,
+          "precioLista": 5000,
+          "remate": null
+        },
+        {
+          "nombre": "Promo 2 Completos Italiano",
+          "descripcion": null,
+          "grupo": "2 Completos",
+          "nombreEnGrupo": "Italiano",
+          "enRemate": false,
+          "precio": 5000,
+          "precioLista": 5000,
+          "remate": null
+        },
+        {
+          "nombre": "Promo 2 As Tomate Mayo",
+          "descripcion": null,
+          "grupo": "2 As",
+          "nombreEnGrupo": "Tomate Mayo",
+          "enRemate": false,
+          "precio": 8000,
+          "precioLista": 8000,
+          "remate": null
+        },
+        {
+          "nombre": "Promo 2 As Tomate Mayo + Queso",
+          "descripcion": null,
+          "grupo": "2 As",
+          "nombreEnGrupo": "Tomate Mayo + Queso",
+          "enRemate": false,
+          "precio": 8000,
+          "precioLista": 8000,
+          "remate": null
+        },
+        {
+          "nombre": "Promo 2 As Tomate Mayo + Italiano",
+          "descripcion": null,
+          "grupo": "2 As",
+          "nombreEnGrupo": "Tomate Mayo + Italiano",
+          "enRemate": false,
+          "precio": 8000,
+          "precioLista": 8000,
+          "remate": null
+        },
+        {
+          "nombre": "Promo 2 As Queso",
+          "descripcion": null,
+          "grupo": "2 As",
+          "nombreEnGrupo": "Queso",
+          "enRemate": false,
+          "precio": 8000,
+          "precioLista": 8000,
+          "remate": null
+        },
+        {
+          "nombre": "Promo 2 As Queso + Italiano",
+          "descripcion": null,
+          "grupo": "2 As",
+          "nombreEnGrupo": "Queso + Italiano",
+          "enRemate": false,
+          "precio": 8000,
+          "precioLista": 8000,
+          "remate": null
+        },
+        {
+          "nombre": "Promo 2 As Italiano",
+          "descripcion": null,
+          "grupo": "2 As",
+          "nombreEnGrupo": "Italiano",
+          "enRemate": false,
+          "precio": 8000,
+          "precioLista": 8000,
+          "remate": null
+        },
+        {
+          "nombre": "Promo 2 Churrascos Queso",
+          "descripcion": null,
+          "grupo": "2 Churrascos",
+          "nombreEnGrupo": "Queso",
+          "enRemate": false,
+          "precio": 10000,
+          "precioLista": 10000,
+          "remate": null
+        },
+        {
+          "nombre": "Promo 2 Churrascos Queso + Lechuga Tomate",
+          "descripcion": null,
+          "grupo": "2 Churrascos",
+          "nombreEnGrupo": "Queso + Lechuga Tomate",
+          "enRemate": false,
+          "precio": 10000,
+          "precioLista": 10000,
+          "remate": null
+        },
+        {
+          "nombre": "Promo 2 Churrascos Queso + Italiano",
+          "descripcion": null,
+          "grupo": "2 Churrascos",
+          "nombreEnGrupo": "Queso + Italiano",
+          "enRemate": false,
+          "precio": 10000,
+          "precioLista": 10000,
+          "remate": null
+        },
+        {
+          "nombre": "Promo 2 Churrascos Lechuga Tomate",
+          "descripcion": null,
+          "grupo": "2 Churrascos",
+          "nombreEnGrupo": "Lechuga Tomate",
+          "enRemate": false,
+          "precio": 10000,
+          "precioLista": 10000,
+          "remate": null
+        },
+        {
+          "nombre": "Promo 2 Churrascos Lechuga Tomate + Italiano",
+          "descripcion": null,
+          "grupo": "2 Churrascos",
+          "nombreEnGrupo": "Lechuga Tomate + Italiano",
+          "enRemate": false,
+          "precio": 10000,
+          "precioLista": 10000,
+          "remate": null
+        },
+        {
+          "nombre": "Promo 2 Churrascos Italiano",
+          "descripcion": null,
+          "grupo": "2 Churrascos",
+          "nombreEnGrupo": "Italiano",
+          "enRemate": false,
+          "precio": 10000,
+          "precioLista": 10000,
+          "remate": null
+        }
+      ]
+    },
+    {
+      "nombre": "Promos Combo",
+      "productos": [
+        {
+          "nombre": "Promo 2 Combos Completos Tomate Mayo",
+          "descripcion": "2 combos: van 2 papas y 2 bebidas iguales",
+          "grupo": "2 Combos Completos",
+          "nombreEnGrupo": "Tomate Mayo",
+          "enRemate": false,
+          "precio": 9000,
+          "precioLista": 9000,
+          "remate": null
+        },
+        {
+          "nombre": "Promo 2 Combos Completos Tomate Mayo + Italiano",
+          "descripcion": "2 combos: van 2 papas y 2 bebidas iguales",
+          "grupo": "2 Combos Completos",
+          "nombreEnGrupo": "Tomate Mayo + Italiano",
+          "enRemate": false,
+          "precio": 9000,
+          "precioLista": 9000,
+          "remate": null
+        },
+        {
+          "nombre": "Promo 2 Combos Completos Italiano",
+          "descripcion": "2 combos: van 2 papas y 2 bebidas iguales",
+          "grupo": "2 Combos Completos",
+          "nombreEnGrupo": "Italiano",
+          "enRemate": false,
+          "precio": 9000,
+          "precioLista": 9000,
+          "remate": null
+        },
+        {
+          "nombre": "Promo 2 Combos As Tomate Mayo",
+          "descripcion": "2 combos: van 2 papas y 2 bebidas iguales",
+          "grupo": "2 Combos As",
+          "nombreEnGrupo": "Tomate Mayo",
+          "enRemate": false,
+          "precio": 16000,
+          "precioLista": 16000,
+          "remate": null
+        },
+        {
+          "nombre": "Promo 2 Combos As Tomate Mayo + Queso",
+          "descripcion": "2 combos: van 2 papas y 2 bebidas iguales",
+          "grupo": "2 Combos As",
+          "nombreEnGrupo": "Tomate Mayo + Queso",
+          "enRemate": false,
+          "precio": 16000,
+          "precioLista": 16000,
+          "remate": null
+        },
+        {
+          "nombre": "Promo 2 Combos As Tomate Mayo + Italiano",
+          "descripcion": "2 combos: van 2 papas y 2 bebidas iguales",
+          "grupo": "2 Combos As",
+          "nombreEnGrupo": "Tomate Mayo + Italiano",
+          "enRemate": false,
+          "precio": 16000,
+          "precioLista": 16000,
+          "remate": null
+        },
+        {
+          "nombre": "Promo 2 Combos As Queso",
+          "descripcion": "2 combos: van 2 papas y 2 bebidas iguales",
+          "grupo": "2 Combos As",
+          "nombreEnGrupo": "Queso",
+          "enRemate": false,
+          "precio": 16000,
+          "precioLista": 16000,
+          "remate": null
+        },
+        {
+          "nombre": "Promo 2 Combos As Queso + Italiano",
+          "descripcion": "2 combos: van 2 papas y 2 bebidas iguales",
+          "grupo": "2 Combos As",
+          "nombreEnGrupo": "Queso + Italiano",
+          "enRemate": false,
+          "precio": 16000,
+          "precioLista": 16000,
+          "remate": null
+        },
+        {
+          "nombre": "Promo 2 Combos As Italiano",
+          "descripcion": "2 combos: van 2 papas y 2 bebidas iguales",
+          "grupo": "2 Combos As",
+          "nombreEnGrupo": "Italiano",
+          "enRemate": false,
+          "precio": 16000,
+          "precioLista": 16000,
+          "remate": null
+        },
+        {
+          "nombre": "Promo 2 Combos Churrascos Queso",
+          "descripcion": "2 combos: van 2 papas y 2 bebidas iguales",
+          "grupo": "2 Combos Churrascos",
+          "nombreEnGrupo": "Queso",
+          "enRemate": false,
+          "precio": 20000,
+          "precioLista": 20000,
+          "remate": null
+        },
+        {
+          "nombre": "Promo 2 Combos Churrascos Queso + Lechuga Tomate",
+          "descripcion": "2 combos: van 2 papas y 2 bebidas iguales",
+          "grupo": "2 Combos Churrascos",
+          "nombreEnGrupo": "Queso + Lechuga Tomate",
+          "enRemate": false,
+          "precio": 20000,
+          "precioLista": 20000,
+          "remate": null
+        },
+        {
+          "nombre": "Promo 2 Combos Churrascos Queso + Italiano",
+          "descripcion": "2 combos: van 2 papas y 2 bebidas iguales",
+          "grupo": "2 Combos Churrascos",
+          "nombreEnGrupo": "Queso + Italiano",
+          "enRemate": false,
+          "precio": 20000,
+          "precioLista": 20000,
+          "remate": null
+        },
+        {
+          "nombre": "Promo 2 Combos Churrascos Lechuga Tomate",
+          "descripcion": "2 combos: van 2 papas y 2 bebidas iguales",
+          "grupo": "2 Combos Churrascos",
+          "nombreEnGrupo": "Lechuga Tomate",
+          "enRemate": false,
+          "precio": 20000,
+          "precioLista": 20000,
+          "remate": null
+        },
+        {
+          "nombre": "Promo 2 Combos Churrascos Lechuga Tomate + Italiano",
+          "descripcion": "2 combos: van 2 papas y 2 bebidas iguales",
+          "grupo": "2 Combos Churrascos",
+          "nombreEnGrupo": "Lechuga Tomate + Italiano",
+          "enRemate": false,
+          "precio": 20000,
+          "precioLista": 20000,
+          "remate": null
+        },
+        {
+          "nombre": "Promo 2 Combos Churrascos Italiano",
+          "descripcion": "2 combos: van 2 papas y 2 bebidas iguales",
+          "grupo": "2 Combos Churrascos",
+          "nombreEnGrupo": "Italiano",
+          "enRemate": false,
+          "precio": 20000,
+          "precioLista": 20000,
+          "remate": null
+        }
+      ]
+    },
     {
       "nombre": "Papas",
       "productos": [
@@ -479,6 +789,186 @@
     }
   ],
   "productos": {
+    "Promo 2 Completos Tomate Mayo": {
+      "enRemate": false,
+      "precio": 5000,
+      "precioLista": 5000,
+      "remate": null
+    },
+    "Promo 2 Completos Tomate Mayo + Italiano": {
+      "enRemate": false,
+      "precio": 5000,
+      "precioLista": 5000,
+      "remate": null
+    },
+    "Promo 2 Completos Italiano": {
+      "enRemate": false,
+      "precio": 5000,
+      "precioLista": 5000,
+      "remate": null
+    },
+    "Promo 2 As Tomate Mayo": {
+      "enRemate": false,
+      "precio": 8000,
+      "precioLista": 8000,
+      "remate": null
+    },
+    "Promo 2 As Tomate Mayo + Queso": {
+      "enRemate": false,
+      "precio": 8000,
+      "precioLista": 8000,
+      "remate": null
+    },
+    "Promo 2 As Tomate Mayo + Italiano": {
+      "enRemate": false,
+      "precio": 8000,
+      "precioLista": 8000,
+      "remate": null
+    },
+    "Promo 2 As Queso": {
+      "enRemate": false,
+      "precio": 8000,
+      "precioLista": 8000,
+      "remate": null
+    },
+    "Promo 2 As Queso + Italiano": {
+      "enRemate": false,
+      "precio": 8000,
+      "precioLista": 8000,
+      "remate": null
+    },
+    "Promo 2 As Italiano": {
+      "enRemate": false,
+      "precio": 8000,
+      "precioLista": 8000,
+      "remate": null
+    },
+    "Promo 2 Churrascos Queso": {
+      "enRemate": false,
+      "precio": 10000,
+      "precioLista": 10000,
+      "remate": null
+    },
+    "Promo 2 Churrascos Queso + Lechuga Tomate": {
+      "enRemate": false,
+      "precio": 10000,
+      "precioLista": 10000,
+      "remate": null
+    },
+    "Promo 2 Churrascos Queso + Italiano": {
+      "enRemate": false,
+      "precio": 10000,
+      "precioLista": 10000,
+      "remate": null
+    },
+    "Promo 2 Churrascos Lechuga Tomate": {
+      "enRemate": false,
+      "precio": 10000,
+      "precioLista": 10000,
+      "remate": null
+    },
+    "Promo 2 Churrascos Lechuga Tomate + Italiano": {
+      "enRemate": false,
+      "precio": 10000,
+      "precioLista": 10000,
+      "remate": null
+    },
+    "Promo 2 Churrascos Italiano": {
+      "enRemate": false,
+      "precio": 10000,
+      "precioLista": 10000,
+      "remate": null
+    },
+    "Promo 2 Combos Completos Tomate Mayo": {
+      "enRemate": false,
+      "precio": 9000,
+      "precioLista": 9000,
+      "remate": null
+    },
+    "Promo 2 Combos Completos Tomate Mayo + Italiano": {
+      "enRemate": false,
+      "precio": 9000,
+      "precioLista": 9000,
+      "remate": null
+    },
+    "Promo 2 Combos Completos Italiano": {
+      "enRemate": false,
+      "precio": 9000,
+      "precioLista": 9000,
+      "remate": null
+    },
+    "Promo 2 Combos As Tomate Mayo": {
+      "enRemate": false,
+      "precio": 16000,
+      "precioLista": 16000,
+      "remate": null
+    },
+    "Promo 2 Combos As Tomate Mayo + Queso": {
+      "enRemate": false,
+      "precio": 16000,
+      "precioLista": 16000,
+      "remate": null
+    },
+    "Promo 2 Combos As Tomate Mayo + Italiano": {
+      "enRemate": false,
+      "precio": 16000,
+      "precioLista": 16000,
+      "remate": null
+    },
+    "Promo 2 Combos As Queso": {
+      "enRemate": false,
+      "precio": 16000,
+      "precioLista": 16000,
+      "remate": null
+    },
+    "Promo 2 Combos As Queso + Italiano": {
+      "enRemate": false,
+      "precio": 16000,
+      "precioLista": 16000,
+      "remate": null
+    },
+    "Promo 2 Combos As Italiano": {
+      "enRemate": false,
+      "precio": 16000,
+      "precioLista": 16000,
+      "remate": null
+    },
+    "Promo 2 Combos Churrascos Queso": {
+      "enRemate": false,
+      "precio": 20000,
+      "precioLista": 20000,
+      "remate": null
+    },
+    "Promo 2 Combos Churrascos Queso + Lechuga Tomate": {
+      "enRemate": false,
+      "precio": 20000,
+      "precioLista": 20000,
+      "remate": null
+    },
+    "Promo 2 Combos Churrascos Queso + Italiano": {
+      "enRemate": false,
+      "precio": 20000,
+      "precioLista": 20000,
+      "remate": null
+    },
+    "Promo 2 Combos Churrascos Lechuga Tomate": {
+      "enRemate": false,
+      "precio": 20000,
+      "precioLista": 20000,
+      "remate": null
+    },
+    "Promo 2 Combos Churrascos Lechuga Tomate + Italiano": {
+      "enRemate": false,
+      "precio": 20000,
+      "precioLista": 20000,
+      "remate": null
+    },
+    "Promo 2 Combos Churrascos Italiano": {
+      "enRemate": false,
+      "precio": 20000,
+      "precioLista": 20000,
+      "remate": null
+    },
     "Papas Fritas": {
       "enRemate": true,
       "precio": 3000,
