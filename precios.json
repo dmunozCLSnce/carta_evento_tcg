@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-01T18:49:08.128Z",
+  "actualizado": "2026-11-01T18:49:20.890Z",
   "hayRemate": true,
   "categorias": [
     {
@@ -220,10 +220,10 @@
           "descripcion": "3 galletones de vainilla con chips de chocolate. Para compartir con tu equipo.",
           "grupo": null,
           "nombreEnGrupo": null,
-          "enRemate": false,
-          "precio": 4000,
+          "enRemate": true,
+          "precio": 1000,
           "precioLista": 4000,
-          "remate": null
+          "remate": "-$3.000"
         }
       ]
     },
@@ -594,10 +594,10 @@
       "remate": "-$1.000"
     },
     "Promo 3 galletones": {
-      "enRemate": false,
-      "precio": 4000,
+      "enRemate": true,
+      "precio": 1000,
       "precioLista": 4000,
-      "remate": null
+      "remate": "-$3.000"
     },
     "Combo Papas Fritas": {
       "enRemate": false,
