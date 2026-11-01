@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-01T21:22:02.147Z",
+  "actualizado": "2026-11-01T21:22:35.247Z",
   "hayRemate": true,
   "categorias": [
     {
@@ -285,10 +285,10 @@
           "descripcion": "+ papas + bebida o agua",
           "grupo": "Combo Completo",
           "nombreEnGrupo": "Italiano",
-          "enRemate": false,
-          "precio": 7190,
+          "enRemate": true,
+          "precio": 6690,
           "precioLista": 7190,
-          "remate": null
+          "remate": "-$500"
         },
         {
           "nombre": "Combo As Tomate Mayo",
@@ -630,10 +630,10 @@
       "remate": null
     },
     "Combo Completo Italiano": {
-      "enRemate": false,
-      "precio": 7190,
+      "enRemate": true,
+      "precio": 6690,
       "precioLista": 7190,
-      "remate": null
+      "remate": "-$500"
     },
     "Combo As Tomate Mayo": {
       "enRemate": false,
