@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-01T21:20:59.966Z",
+  "actualizado": "2026-11-01T21:21:25.015Z",
   "hayRemate": true,
   "categorias": [
     {
@@ -200,10 +200,10 @@
           "descripcion": "Vaso grande de cabritas dulces, recién hechas en el puesto. Ideales para mirar las partidas.",
           "grupo": null,
           "nombreEnGrupo": null,
-          "enRemate": false,
-          "precio": 3000,
+          "enRemate": true,
+          "precio": 2000,
           "precioLista": 3000,
-          "remate": null
+          "remate": "-$1.000"
         },
         {
           "nombre": "Galletón chips de chocolate",
@@ -582,10 +582,10 @@
       "remate": null
     },
     "Cabritas": {
-      "enRemate": false,
-      "precio": 3000,
+      "enRemate": true,
+      "precio": 2000,
       "precioLista": 3000,
-      "remate": null
+      "remate": "-$1.000"
     },
     "Galletón chips de chocolate": {
       "enRemate": true,
